@@ -4,7 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Backend Code
 
-The baackend code for this application is hosted in [Github](https://github.com/gr997570/csci5410-g11)
+The backend code for this application is hosted in [Github](https://github.com/patel24kishan/Digtal-Locker-Backend)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
